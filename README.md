@@ -44,4 +44,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjai-r&show_icons=true&locale=en&layout=compact" alt="sanjai-r" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjai-r&show_icons=true&locale=en" alt="sanjai-r" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sanjai-r&show_icons=true&locale=en" alt="sanjai-r" /></p>
