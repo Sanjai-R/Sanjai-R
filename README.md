@@ -42,6 +42,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjai-r&show_icons=true&locale=en&layout=compact" alt="sanjai-r" height=100 width=100/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjai-r&show_icons=true&locale=en&layout=compact" alt="sanjai-r" height=400 width=400/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjai-r&show_icons=true&locale=en" alt="sanjai-r" height=100 width=100/></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sanjai-r&show_icons=true&locale=en" alt="sanjai-r" height=400 width=400/></p>
