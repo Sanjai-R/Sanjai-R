@@ -3,7 +3,7 @@
 
 
 
- 🌱 I’m currently learning **Reactjs**
+ 🌱 I’m currently learning **Nextjs**
 
  👯 I’m a student of **KEC**
 
