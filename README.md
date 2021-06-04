@@ -34,7 +34,6 @@
 [<img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>]()&nbsp;&nbsp;&nbsp;
 [<img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>]()&nbsp;&nbsp;&nbsp;
 [<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />]()&nbsp;&nbsp;&nbsp;
-[<img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>]()&nbsp;&nbsp;&nbsp;
 
 
 <a name="learning-next"></a>
