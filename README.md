@@ -11,7 +11,7 @@
 # 📫 Reach me on
 
   <a align="center" href="https://www.linkedin.com/in/sanjai-popz/"><img height="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;
-    <a align="center" href="https://www.instagram.com/itz_me_r.i.y.a.z_/"><img height="50" src="https://github.com/hussainweb/hussainweb/raw/main/icons/instagram.png"></a>&nbsp;&nbsp;&nbsp;
+    <a align="center" href="https://www.instagram.com/sanjai_popz_/"><img height="50" src="https://github.com/hussainweb/hussainweb/raw/main/icons/instagram.png"></a>&nbsp;&nbsp;&nbsp;
       <a align="center" href="https://twitter.com/Sanjaipopz"><img height="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
     
 
