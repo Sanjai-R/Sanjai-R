@@ -3,7 +3,7 @@
 
 
 
- 🌱 I’m currently learning **Node JS**
+ 🌱 I’m currently learning **NEXT JS**
 
 👩‍💻 Self Taught developer
 
