@@ -3,10 +3,6 @@
 
 
 
- 🌱 I’m currently learning **NEXT JS**
-
-👩‍💻 Self Taught developer
-
 
 # 📫 Reach me on
 
@@ -38,13 +34,8 @@
 [<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />]()&nbsp;&nbsp;&nbsp;
 [<img alt="Flutter" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />]()&nbsp;&nbsp;&nbsp;
 
-<a name="learning-next"></a>
 
-# 📖  What I am currently learning / improving on
 
-[<img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>]()
-&nbsp;
- 
 
 
 # UI/UX
