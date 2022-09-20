@@ -1,3 +1,19 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Sanjai and I'm a Full stack developer, from India</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning AWS</p>
+
+###
+
 ### Technologies I used
  [<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>]()
  [<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>]()
