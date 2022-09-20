@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Sanjai-R&theme=react-dark"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=sanjai-r&theme=react-dark"/>
 </p>
 
 <p align="center">
