@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning AWS</p>
+<p align="left">✨ Creating bugs since 2020📚 I'm currently learning AWS</p>
 
 ###
 
