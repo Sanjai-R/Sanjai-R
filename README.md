@@ -8,9 +8,11 @@
 
 <h2 align="left">About me</h2>
 
+
 ###
 
-<p align="left">✨ Creating bugs since 2020 </br>📚  I'm currently learning AWS</p>
+<p align="left">💻 Intern at Presdio </br>📚  I'm currently learning AWS
+ </br>✨ Creating bugs since 2020</p>
 
 ###
 
@@ -42,7 +44,7 @@
 </p>
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=sanjai-r&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanjai-r&theme=react-dark"/>
 </p>
 
 <p align="center">
