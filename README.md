@@ -23,7 +23,7 @@ me.say_hi()
 ### My Statistics
 <p align="center">
 <img  width="48%"  src="https://github-readme-stats.vercel.app/api?username=sanjai-r&show_icons=true&theme=react" alt="sanjai-r" />
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjai-r&layout=compact&hide=swift,css,objective-c&theme=nord&hide_border=true" />
+ <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjai-r&layout=compact&hide=swift,css,objective-c&theme=nord&hide_border=true" />
 
 </p>
 <p align="center">
