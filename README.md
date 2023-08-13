@@ -29,7 +29,7 @@ me.say_hi()
 <p align="center">
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjai-r&theme=react&hide_border=true" alt="sanjai-r" />
 <p align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanjai-r&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjai-R&theme=react-dark&hide_border=true"/>
 </p>
 
 </p>
